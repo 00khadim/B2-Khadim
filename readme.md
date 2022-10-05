@@ -64,4 +64,30 @@ Taches :
 Travail de gantt
 Documents types devis/facture
 Cahier des charges
+
+
+Les méthodologies de gestion de projet 
+    (Consiste de planifier tous les taches)
+
+Le chef de projet va utiliser ma méthode la plus adaptée à son projet et surtout la plus adaptée à l’organisation de l’entreprise 
+    Modelé :  
+        Cycle en cascade Les étape du projet s’enchainent les unes après les autres
+            •	Analyse (du besoin client)
+            •	Conception (création du produit –phase théorique)
+            •	Planification (développement, répartition des taches) 
+            •	Réalisation 
+            •	Vérification (Test, recette)   
+            •	Mise en production
+            •	Maintenance
+
+
+
+    Modelé : 
+        Cycle en V
+            Cette méthode dérive de la précédente et son bue est de pallier au manque de flexibilité de la méthode. Cette méthode s’attarde sur conception et développement du produit.
+
+            Les méthodes agiles : Le client est impliqué dans le projet toute au long du projet du début à la fin, le besoin initial peut changer pour s’adapter à tous les changement et difficultés rencontres.
+            Au sein des méthode traditionnelles on conçoit un livrable finals dès le départ. 
+            Pour les méthodes agiles, on se fixe des objectifs successifs et à chaque atteint on se fixe avec l’aide du client un nouvel objectif.
+
  
